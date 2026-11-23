@@ -1,0 +1,14 @@
+.env
+.env.*
+.claude/
+*.key
+*.pem
+__pycache__/
+.pytest_cache/
+*.pyc
+*.exe
+*.db
+*.sqlite
+*.sqlite3
+demo-data/
+dist/
